@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+
+# Index / embeddings (VERY IMPORTANT)
+.codebase_ai/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# HuggingFace cache
+.cache/
